@@ -1,0 +1,13 @@
+# ninja log v5
+10	791	7209308136763886	CMakeFiles/courseInfo.dir/OfferedCourse.cpp.obj	f0d06bfd4719c949
+1	798	7209308136784628	CMakeFiles/courseInfo.dir/main.cpp.obj	d646ba571a75709b
+17	799	7209308136794646	CMakeFiles/courseInfo.dir/Course.cpp.obj	5e1a38f966cbf513
+800	1095	7209308139751162	courseInfo.exe	62d2406408a6c6f9
+5	689	7209308829525708	CMakeFiles/courseInfo.dir/Course.cpp.obj	5e1a38f966cbf513
+690	858	7209308831145316	courseInfo.exe	62d2406408a6c6f9
+6	603	7209309026443214	CMakeFiles/courseInfo.dir/Course.cpp.obj	5e1a38f966cbf513
+603	738	7209309027748134	courseInfo.exe	62d2406408a6c6f9
+14	771	7209311684193371	CMakeFiles/courseInfo.dir/OfferedCourse.cpp.obj	f0d06bfd4719c949
+21	773	7209311684193371	CMakeFiles/courseInfo.dir/Course.cpp.obj	5e1a38f966cbf513
+6	802	7209311684512859	CMakeFiles/courseInfo.dir/main.cpp.obj	d646ba571a75709b
+803	1006	7209311686491991	courseInfo.exe	62d2406408a6c6f9
