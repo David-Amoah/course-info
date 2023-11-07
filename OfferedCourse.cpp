@@ -1,10 +1,8 @@
-//
-// Created by amoah on 11/5/2023.
-//
+// Copyright 2023
+// Author: David Amoah
 
 #include "OfferedCourse.h"
-
-#include "OfferedCourse.h"
+#include "Course.h"
 
 // TODO: Define mutator functions -
 //      SetInstructorName(), SetLocation(), SetClassTime()
@@ -34,4 +32,12 @@ string OfferedCourse::GetLocation() {
 
 string OfferedCourse::GetClassTime() {
     return classTime;
+}
+
+string OfferedCourse::GetTerm() {
+    return newterm;
+}
+
+void OfferedCourse::SetTerm(string term) {
+    this -> newterm = term;
 }

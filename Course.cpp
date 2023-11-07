@@ -1,8 +1,11 @@
-//
-// Created by amoah on 11/5/2023.
-//
+// Copyright 2023
+// Author: David Amoah
 
 #include "Course.h"
+#include <iostream>
+
+using std::cout;
+using std::endl;
 
 // TODO: Define mutator functions -
 //       SetCourseNumber(), SetCourseTitle()

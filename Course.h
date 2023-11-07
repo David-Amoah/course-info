@@ -1,6 +1,5 @@
-//
-// Created by amoah on 11/5/2023.
-//
+// Copyright 2023
+// Author: David Amoah
 
 #ifndef COURSEINFO_COURSE_H
 #define COURSEINFO_COURSE_H
@@ -9,7 +8,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+using std::string;
 
 class Course {
     // TODO: Declare private data members

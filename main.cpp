@@ -1,3 +1,6 @@
+// Copyright 2023
+// Author: David Amoah
+
 #include <iostream>
 #include <string>
 
